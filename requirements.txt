@@ -1,0 +1,9 @@
+torch
+transformers
+nltk
+whisper
+moviepy
+opencv-python
+yt-dlp
+ffmpeg-python
+dataclasses
