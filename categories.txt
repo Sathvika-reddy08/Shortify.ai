@@ -1,0 +1,104 @@
+youtube_categories = {
+    "Sports": [
+        "great fielding", "amazing goal", "epic dunk", "insane rally", "crazy touchdown",
+        "last-minute winner", "unbelievable comeback", "sports highlights", "fastest knockout", 
+        "legendary match", "clutch moments", "buzzer beater", "game-winning shot", 
+        "impossible save", "underdog victory", "best trick shots", "record-breaking performance",
+        "greatest rivalry", "miracle play", "unstoppable athlete", "world championship moments"
+    ],
+    "Gaming": [
+        "pro gameplay", "epic win", "speedrun", "no hit run", "next level strategy", 
+        "funny gaming moments", "rage quit", "best battle royale plays", "glitch compilation", 
+        "game theory", "clutch moments", "1v5 clutch", "insane reaction time", "perfect headshot",
+        "best loadouts", "high IQ play", "zero HP comeback", "sweaty lobbies", "god-tier movement",
+        "ranked gameplay", "unbelievable RNG", "fastest kill", "FPS sniper montage"
+    ],
+    "Music": [
+        "top hit", "new release", "acoustic cover", "live performance", "amazing vocals",
+        "music reaction", "remix", "instrumental version", "best rap verse", "underrated artist",
+        "vocal range test", "studio vs live", "legendary collaboration", "best beat drop",
+        "mind-blowing guitar solo", "emotional lyrics", "catchiest hooks", "perfect harmony",
+        "top Billboard songs", "most underrated albums", "best music production"
+    ],
+    "Tech": [
+        "latest gadgets", "unboxing", "AI revolution", "best budget phone", "tech review",
+        "PC build guide", "camera comparison", "software tutorial", "next-gen gaming",
+        "crypto news", "best streaming setup", "fastest laptop", "affordable tech hacks",
+        "future of AI", "robotics breakthrough", "best smart home devices", "top cybersecurity tips",
+        "must-have apps", "underrated tech innovations", "new phone leaks", "quantum computing explained"
+    ],
+    "Education": [
+        "how to", "tutorial", "science explained", "life hacks", "study tips",
+        "self-improvement", "best books to read", "learning hacks", "public speaking tips",
+        "history facts", "deep learning simplified", "mind-blowing psychology facts",
+        "best memorization techniques", "critical thinking skills", "math hacks",
+        "biggest scientific discoveries", "how the brain works", "logical reasoning tricks",
+        "productivity tips for students", "why we dream"
+    ],
+    "Comedy": [
+        "funny moments", "prank gone wrong", "best roast", "stand-up comedy", "hilarious fails",
+        "memes compilation", "skit", "parody video", "dark humor", "reaction comedy",
+        "funniest bloopers", "best impressions", "cringe compilation", "epic fails",
+        "uncontrollable laughter", "viral TikTok trends", "dad jokes", "ultimate roast battle",
+        "celebrity funny moments", "most savage comebacks"
+    ],
+    "Movies & TV": [
+        "best scenes", "trailer breakdown", "movie review", "behind the scenes", "easter eggs",
+        "fan theories", "cinematic masterpiece", "underrated movies", "TV show ranking",
+        "character analysis", "top 10 villains", "best horror movie endings", "greatest plot twists",
+        "hidden details in movies", "biggest box office flops", "best sci-fi films",
+        "actors who nailed their roles", "director's cut vs theatrical", "most iconic lines",
+        "movie soundtrack rankings"
+    ],
+    "News & Politics": [
+        "breaking news", "current events", "political analysis", "world news", "opinion piece",
+        "climate change update", "financial crisis", "elections 2025", "scandal exposed",
+        "top headlines", "biggest global issues", "future of democracy", "deep state theories",
+        "war updates", "diplomatic tensions", "new laws explained", "media bias exposed",
+        "biggest political speeches", "government secrets", "most controversial debates"
+    ],
+    "Fashion & Beauty": [
+        "makeup tutorial", "fashion tips", "skincare routine", "outfit of the day", "style hacks",
+        "DIY beauty", "hairstyle trends", "celebrity fashion", "thrift haul", "best perfumes",
+        "minimalist fashion", "best skincare brands", "how to dress for your body type",
+        "seasonal fashion trends", "sustainable fashion", "red carpet looks",
+        "luxury vs budget fashion", "nail art ideas", "worst fashion fails", "best makeup dupes"
+    ],
+    "Food": [
+        "recipe", "cooking tips", "street food", "tasty review", "food challenge",
+        "best burger", "Michelin-star review", "home cooking", "exotic food tasting",
+        "healthy meals", "ultimate BBQ guide", "best pasta dishes", "vegan recipes",
+        "fast food secrets", "chefs react to home cooking", "perfect steak techniques",
+        "best desserts", "crazy food combos", "food myths busted", "iconic dishes from around the world"
+    ],
+    "Travel": [
+        "hidden gems", "travel vlog", "best destinations", "adventure time", "budget travel",
+        "solo travel", "road trip", "beach paradise", "off-the-grid", "luxury travel",
+        "best city skylines", "most scenic train rides", "travel photography tips",
+        "underrated islands", "how to travel for free", "most dangerous places to visit",
+        "unique Airbnb stays", "wildlife safaris", "best travel hacks", "most beautiful sunsets"
+    ],
+    "Health & Fitness": [
+        "workout routine", "diet plan", "yoga tutorial", "weight loss tips", "gym motivation",
+        "calisthenics challenge", "mental health tips", "morning routine", "sports recovery",
+        "muscle gain tips", "best ab workouts", "fastest fat loss methods", "superfoods explained",
+        "home workouts", "athlete training secrets", "how to improve flexibility",
+        "stress management techniques", "best supplements", "health myths debunked",
+        "importance of sleep"
+    ],
+    "Finance & Business": [
+        "investing tips", "stock market updates", "side hustles", "crypto trends", "business ideas",
+        "real estate investing", "financial freedom", "saving hacks", "passive income", "rich habits",
+        "how to budget effectively", "best business books", "biggest investment mistakes",
+        "startup success stories", "ways to make money online", "how to negotiate better",
+        "dropshipping business guide", "future of digital currency", "billionaire mindset",
+        "how to retire early"
+    ],
+    "Motivation & Self-Improvement": [
+        "morning motivation", "success habits", "best self-help books", "goal setting", "mindset shift",
+        "overcoming fear", "productivity hacks", "confidence building", "discipline tips",
+        "law of attraction", "how to stop procrastinating", "power of habits", "most inspiring speeches",
+        "time management tips", "how to stay focused", "best TED Talks", "mindfulness practices",
+        "emotional intelligence", "ways to increase willpower", "life-changing mindset shifts"
+    ]
+}
